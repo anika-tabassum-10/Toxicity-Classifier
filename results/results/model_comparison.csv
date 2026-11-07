@@ -1,0 +1,4 @@
+model,accuracy,precision,recall,f1,roc_auc
+1. Frozen BERT (transfer learning),0.925,0.7,0.0886,0.1573,0.8447
+2. Fine-tuned (default hyperparameters),0.9475,0.7087,0.5696,0.6316,0.9316
+3. Fine-tuned + tuned hyperparameters,0.9438,0.6512,0.6203,0.6353,0.9265

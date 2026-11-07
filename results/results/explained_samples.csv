@@ -1,0 +1,6 @@
+case,true,pred,prob_toxic,text
+True positive,toxic,toxic,0.989,"Really? Do you know how many vegan animals have what you call canines?  No, you don't. You can't fix stupid."
+True positive,toxic,toxic,0.989,Yeah instead they should let some dumb hick or burned out crack head beat the shit out of the women their with.
+True negative,not_toxic,not_toxic,0.002,Won't this reduce your own contribution room?
+False negative,toxic,not_toxic,0.004,"no, no, no, that wasn't the deal. at least 1000 to 3000 low cost units at every station, that was the deal, or should have been. and they must be owned by us, the people, not the rich.  time to elect some poor people to the legislative club, pass a law mandating the dpp not to even consider any project within 5000 meters of any train station that isn't 100% government funded low cost units. i hit "
+False positive,not_toxic,toxic,0.988,"Et tu, Kurgan?  You're known for your scathing wit, not a DonInKansas fool's laugh."

@@ -1,0 +1,7 @@
+source,text,pred_class,prob_toxic,my_check
+example: news comment,"Thanks for the thoughtful article, I learned a lot about the new policy.",not_toxic,0.0028,
+example: forum reply,You are a complete idiot and nobody wants to hear your garbage opinions.,toxic,0.9874,
+example: sarcasm,"Oh great, another genius idea from management. What could possibly go wrong?",not_toxic,0.0048,
+example: heated debate,I strongly disagree with this decision and I think it will hurt local businesses.,not_toxic,0.0042,
+example: reviews,"The delivery was late and the food was cold, very disappointing experience.",not_toxic,0.0061,
+example: insult,"Shut up, you worthless moron. People like you shouldn't be allowed to post.",toxic,0.9877,
