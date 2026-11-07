@@ -76,7 +76,7 @@ Default fine-tuning settings: learning rate 2e-5, 2 epochs, batch size 32, weigh
 
 **Screenshot of the tuning results:**
 
-![tuning screenshot](results/tuning_screenshot.png)
+![tuning screenshot](results/tuning_results.png)
 
 **Trial results** (sorted by validation F1, from `results/tuning_trials.csv`):
 
