@@ -183,3 +183,4 @@ Select the project kernel and run all cells. On a laptop without a good GPU, use
 - `requirements.txt`: dependencies
 - `results/`: figures, CSV tables, `best_params.json`, `shap_text.html`
 - `github_link.txt`: repository link
+- `main.py`: helper script that builds the submission zip (notebook, README, requirements and `results/` only, with no dataset or model files)
